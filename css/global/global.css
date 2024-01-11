@@ -10,6 +10,10 @@ ul {
     list-style: none;
 }
 
+dd {
+    margin: 0px;
+}
+
 a {
     text-decoration: none;
     color: inherit;
