@@ -77,3 +77,9 @@
         flex-direction: column;
     }
 }
+
+@media(max-width: 500px) {
+    .tecnologia-conteudo h2{
+        font-size: 2rem;
+    }
+}
